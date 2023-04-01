@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&repeat=false&width=380&lines=Still+Waters+Run+Deep+!)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&repeat=false&width=380&lines=Still+Waters+Run+Deep+!)
 
 ![](https://github-readme-stats.vercel.app/api?username=HeronZing&theme=maroongold)
 
@@ -8,4 +8,4 @@
 
 ------
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HeronZing&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HeronZing&theme=github-compact)
