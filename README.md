@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=26&pause=100&center=true&vCenter=true&multiline=true&width=600&lines=Still+waters+run+deep+!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&repeat=false&width=380&lines=Still+Waters+Run+Deep+!)](https://git.io/typing-svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=HeronZing&theme=maroongold)
 
